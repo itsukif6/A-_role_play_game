@@ -1,5 +1,5 @@
 # A_role_play_game
-Author by Nikola(軟體三 蔡岳哲).\n
+Author by Nikola(軟體三 蔡岳哲).  
 NKNU SEM 411077010.
 Wrote from 2024/1/10 to 2024/1/11(beta ver.).
 This is final project of "軟體需求"'s lab.4's first homework.
